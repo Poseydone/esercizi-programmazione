@@ -3,6 +3,9 @@ Questa repository è una raccolta di esercizi presi da PDF forniti dal Professor
 L'obiettivo è scrivere codice chiaro, leggibile e ben commentato.
 Si accettano consigli e correzioni tramite pull requests e issues.
 
+## TODO:
+La maggior parte degli esercizi ha ancora pochi o nessun commento, correggerò questo "dettaglio" nei prossimi giorni.
+
 
 ## Download:
 Si può scaricare la repository nei seguenti modi:
